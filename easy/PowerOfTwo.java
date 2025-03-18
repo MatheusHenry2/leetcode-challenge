@@ -1,3 +1,5 @@
+package easy;
+
 public class PowerOfTwo {
 
     public static boolean isPowerOfTwo(int n) {
