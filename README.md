@@ -12,3 +12,7 @@ Welcome to the **LeetCode Challenges** repository! This repo contains a curated 
 - Improve your **problem-solving skills**  
 - Learn **efficient coding patterns**  
 - Get ready for **coding interviews with real-world scenarios**  
+
+## 🏁 My Progress
+✅ **LeetCode Problems Solved:** 42  
+📚 **Last Updated:** March 19, 2025  
