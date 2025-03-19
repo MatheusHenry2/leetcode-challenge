@@ -14,5 +14,5 @@ Welcome to the **LeetCode Challenges** repository! This repo contains a curated 
 - Get ready for **coding interviews with real-world scenarios**  
 
 ## 🏁 My Progress
-✅ **LeetCode Problems Solved:** 42  
+✅ **LeetCode Problems Solved:** 12  
 📚 **Last Updated:** March 19, 2025  
