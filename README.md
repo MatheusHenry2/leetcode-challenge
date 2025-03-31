@@ -1,6 +1,6 @@
 # 🚀 LeetCode Challenges for Big Tech Preparation
 
-Welcome to the **LeetCode Challenges** repository! This repo contains a curated collection of coding problem*
+Welcome to the **LeetCode Challenges** repository! This repo contains a curated collection of coding problem
 
 ## 📌 What You'll Find Here
 - 🏆 **Handpicked LeetCode problems** commonly asked in big tech interviews  
